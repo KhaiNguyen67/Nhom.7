@@ -4,8 +4,7 @@ Mật khẩu: 123456
 Tài khoản admin: Tung@gmail.com
 mật khẩu: 1234567
 
-Link website: nhom7.page.gd
-Hoặc chạy localhost (nếu không thể kết nối thì chỉnh cổng kết nối trong config/db.php)
+chạy localhost nếu không thể kết nối thì chỉnh cổng kết nối trong config/db.php
 
 -Thanh toán theo phương pháp nhập thông tin tk ngân hàng:
 Chọn ngân hàng: NCB
